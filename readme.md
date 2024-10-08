@@ -1,5 +1,4 @@
 # KRYSTIAN KIEL - SOFTWARE TESTER
-<p align="center"><strong>AUTOMATED TESTING TOOLS</strong></p>
 <p align="center">
   <a href="https://github.com/KrystianKiel/RobotFrameworkPortf">Robot Framework</a> |
   <a href="https://github.com/KrystianKiel/PlaywrightPythonPortf">Playwright</a> |
